@@ -2,7 +2,7 @@
 <html>
 <body>
 
-Hello World of Spring!
+Hello World of Spring MVC!
 <br><br>
 Student name: ${param.studentName}
 <br><br>

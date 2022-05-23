@@ -7,7 +7,9 @@
 <hr>
 
 <a href="hello/showForm">Hello Spring MVC!</a>
+<br><br>
 
+<a href="student/showForm">Student Form</a>
 </body>
 
 </html>
